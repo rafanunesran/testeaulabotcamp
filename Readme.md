@@ -1,3 +1,4 @@
+ # Vamos que Vamos
  Dio | Resumo Aula Git nova merda que e dificil pra caralho para aprender
 
 uma aula de 15 min vira 1h.
