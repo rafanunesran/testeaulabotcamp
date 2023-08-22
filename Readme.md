@@ -1,6 +1,6 @@
  Dio | Resumo Aula Git nova merda que e dificil pra caralho para aprender
 
-Vamos ver quanto tempo eu levo pra ficar com raiva.
+uma aula de 15 min vira 1h.
 [Radouken](https://www.youtube.com/watch?v=y1x6dUofnl8&ab_channel=Irm%C3%A3osPiologo).
 
  ## 👌 Vai Merda
