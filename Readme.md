@@ -1,5 +1,6 @@
  # Vamos que Vamos
- online depois do clone
+
+ Alteracao ofline
  
  Dio | Resumo Aula Git nova merda que e dificil pra caralho para aprender
 
